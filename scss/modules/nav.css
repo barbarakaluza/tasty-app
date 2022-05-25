@@ -1,0 +1,25 @@
+.nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.nav-list {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    padding: 3px;
+}
+
+.nav-list-elem {
+    font-size: 8px;
+    font-style: Imprima;
+}
+
+.nav-list-link {
+    text-decoration: none;
+    color: white;
+}
